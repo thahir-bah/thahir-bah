@@ -13,17 +13,16 @@
 
 <br>
 
-<div align="center">
-  <pre style="text-align: start;">
-    💼 •IA and Data Science Engineer • Full-Stack dev
-    💻 Intelligent Systems programming languages • Data Analysis 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Ndole 🐰 • Okok & Tajine & Gombo 🐤🐥
-    📫 Email • **thahirbah@gmail.com**
-  </pre>
 
-</div>
+<pre style="text-align: start;">
+  💼 •IA and Data Science Engineer • Full-Stack dev
+  💻 Intelligent Systems programming languages • Data Analysis 
+  📖 Software architecture • Distributed systems
+  🎮 Music • Games • Anime • Code • Art
+  🐾 Ndole 🐰 • Okok & Tajine & Gombo 🐤🐥
+  📫 Email • **thahirbah@gmail.com**
+</pre>
+
         
 <br>
 <br>
