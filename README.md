@@ -2,8 +2,9 @@
 <p align="center">
   <img src="assets/header.png" alt="header"/>
 </p>
-
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=2000&height=150&lines=Hello !;I'm+a+master's+student+in+Data+Science+and+Artificial+Intelligence." width="70%" />
+</p>
 
 
 <p align="center">
