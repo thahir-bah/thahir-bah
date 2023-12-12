@@ -20,7 +20,7 @@
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
     🐾 New tech • Sport & Food 🐤🐥
-    📫 Social • **[linkedin.com/in/thahir-bah/](https://www.linkedin.com/in/thahir-bah/)**
+    📫 Social • **https://www.linkedin.com/in/thahir-bah/**
   </pre>
 
 </div>
