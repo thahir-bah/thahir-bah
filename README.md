@@ -96,7 +96,7 @@ These are some of the technologies and tools that I work with:
   <tr>
     <th>Testing</th>
     <td>
-      <img src="https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
